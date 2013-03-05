@@ -1,4 +1,3 @@
-	
 (function($){
 	$.fn.slideProjector = function(options){
 	options = $.extend({}, $.fn.slideProjector.defaults, options);
@@ -208,5 +207,3 @@
     }
 	
 })(jQuery);
-
-$('#diaShow').slideProjector({'swaptime':300, 'bgcolor':'#011249', 'width': 800, 'height':300});

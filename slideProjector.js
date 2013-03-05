@@ -34,7 +34,7 @@
 	 */
 	$(this).css({
 		'background-color':options.bgcolor,
-		'width':options.width + 'px',
+		'width':(options.width -40) + 'px',
 		'height': (options.height + 75) + 'px',
 		'padding':'20px',
 		'float':'none'

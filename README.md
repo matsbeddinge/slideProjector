@@ -5,11 +5,11 @@ This is a small and simple gallery/slideshow jQuery-plugin.
 
 Installation
 ============
-1. Clone or zip the files from the archive.
-2. Put the js-file on your webb server at place of your own choice and link to it from your html-page by normal script tag. 
-Remember that you need jQuery installed and that you have to have jQuery loaded before you load this plugin.
-3. The two png images must be put in the root of your webb installation.
-4. Put your images for the gallery within wrapping tags of your own choice, i.e <div id='gallery'><img src='aa.jpg'>......<img src='xx.jpg'></div>
+1. Clone or zip the files from the github archive.
+2. Place the js-file in a directory on your webb server and link to it from your html-page by a normal script tag. 
+You need to have jQuery installed and loaded before this plugin.
+3. The two png images must be placed in the root of your webb installation.
+4. Place images for the gallery within wrapping tags of your own choice like &lt;div id="gallery"&gt;
 5. In your own script you then simply call the plugin: $('#gallery').slideProjector();   
 
 Options

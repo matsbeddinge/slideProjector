@@ -1,0 +1,4 @@
+SlideProjector
+==============
+
+Describe project.
